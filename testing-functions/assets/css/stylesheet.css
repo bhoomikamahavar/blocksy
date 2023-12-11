@@ -1,0 +1,17 @@
+.swal2-container .swal2-popup {
+  background-color: #fff;
+}
+
+.swal2-container .swal2-title{
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+.swal2-container .swal2-icon.swal2-warning{
+    border-color: #f8bb86;
+    color: #f8bb86;
+}
+
+.swal2-container .swal2-html-container{
+  text-align: center;
+}
